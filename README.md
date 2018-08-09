@@ -1,7 +1,11 @@
 # windows-newman-docker
 A Windows-based container that can run Newman (Postman) tests
 
-## How-to
+## Build
+
+`docker build -t sevencorners/windows-newman:latest .`
+
+## Run
 
 In Powershell, execute the following:
 
